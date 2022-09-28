@@ -1,0 +1,67 @@
+body
+{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.survey_button
+{
+    background-color: #000814 !important;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.congratulations
+{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.des
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+.principal_bg
+{
+    margin-bottom: 20px;
+}
+.loading
+{
+    margin-top: 25px !important;
+    margin-bottom: 35px !important;
+}
+.spinner-border
+{
+    margin-bottom: 45px !important;  
+}
+.p_modal h2, p
+{
+    color: black !important;
+}
+.p_modal_button
+{
+    background-color: #000814 !important;
+}
+a
+{
+    color: white;
+}
+a:hover
+{
+    color: white;
+}
+.wrapper 
+{
+	display: flex;
+	max-width: 650px;
+	margin: 25px auto 25px auto;
+}
+.item 
+{
+    margin-left: 20px;
+}
+.item > img
+{
+    width: 100%;
+    height: 100%;
+}
